@@ -1,0 +1,49 @@
+{
+  "2023-06-15": {
+    "id": "a98cc2ce-4efd-4353-8788-3e3de03ba090",
+    "version": 1,
+    "insuranceMSP": "RenaissanceMSP",
+    "transportMSP": "GruzovichkofAvtoflotMSP",
+    "isBroker": true,
+    "insuranceType": "cargo",
+    "key": "v1",
+    "masterAgreementUID": null,
+    "tariffType": "general",
+    "revoked": false,
+    "revokedDateTime": null,
+    "actualStartDate": "2023-06-15",
+    "endDate": null,
+    "index": 10,
+    "contractorUID": null,
+    "contractorName": null,
+    "contractorKey": null,
+    "contractorITN": null,
+    "contractorRole": null,
+    "extraData": {
+      "declaredValueRatio": 0.0005,
+      "minInsurancePrice": 5500,
+      "coolingOffPeriod": 5,
+      "declaredValueLimitByPrice": [
+        {
+          "limit": 50000000,
+          "fixedPrice": 5500
+        },
+        {
+          "limit": 200000000,
+          "fixedPrice": 29900
+        }
+      ],
+      "declaredValueLimitBySection": [
+        {
+          "section": 1,
+          "limit": 500000000
+        },
+        {
+          "section": 2,
+          "limit": 2000000000
+        }
+      ]
+    },
+    "isDeleted": false
+  }
+}

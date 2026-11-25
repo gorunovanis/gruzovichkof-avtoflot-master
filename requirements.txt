@@ -1,0 +1,15 @@
+flask==2.3.2
+gunicorn==21.2.0
+stomp.py==8.1.0
+gevent==23.7.0
+requests==2.31.0
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+redis==5.0.0
+innoseti-calc-api==3.2.5
+innoseti-calc-auth-service==2.0.1
+innoseti-calc-coefficient-utils==0.3.2
+innoseti-calc-currency-service==2.0.1
+innoseti-calc-log-service==2.5.10
+innoseti-calc-tariff-loader==3.2.17
+innoseti-calc-utils==1.0.14

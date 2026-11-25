@@ -1,0 +1,4 @@
+include:
+  - project: 'devops/CICD'
+    ref: master
+    file: /calculators/include.yml
